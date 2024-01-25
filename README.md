@@ -2,7 +2,6 @@
 
 This is a collection of FN tools that I use. This consists of cleaners and spoofers and just overall stuff that every fn cheater should have.
 
-If you sell any of this you are a retard
 
 # FNCLEAN.BAT
 
@@ -40,7 +39,3 @@ Unsupported Motherboards
 Windows Defender Control
 
 Permanantly Disables your Windows Anti-Virus.
-
-# discord.gg/subz
-
-# this pack was made by payson
